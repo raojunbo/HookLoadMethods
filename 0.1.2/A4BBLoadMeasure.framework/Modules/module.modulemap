@@ -1,0 +1,6 @@
+framework module A4BBLoadMeasure {
+  umbrella header "A4BBLoadMeasure.h"
+
+  export *
+  module * { export * }
+}
